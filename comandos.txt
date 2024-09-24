@@ -1,0 +1,6 @@
+1º deve ser feito um pull de alterações
+git pull origin main
+
+2º dar commit dos ficheiros criados e posteriormente após o pull com as ultimas alterações, é feito o push:
+
+git push origin main
